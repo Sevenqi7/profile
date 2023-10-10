@@ -5,7 +5,7 @@ I am a student majoring in Computer Science in NWPU in Shaan Xi, China.
 - 🌱 I’m currently learning modern computer architecture and now I'm trying to write my own [documents](https://github.com/Sevenqi7/nanhu-g-guide) for [Xiangshan](https://github.com/OpenXiangShan/XiangShan).
 - ✨ My interest lies broadly in systems. It's truly interesting and challenging!
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sevenqi7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sevenqi7's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenqi7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sevenqi7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs" alt="sevenqi7's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenqi7&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
