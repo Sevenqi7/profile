@@ -1,5 +1,13 @@
-### Hi there 👋
+### <center>Hi there! I'm Seven7 👋
+I am a student majoring in Computer Science in NWPU in Shaan Xi, China. 
+
+- 🔭 I’m currently working on [MikuCPU](https://github.com/Sevenqi7/MikuCPU).
+- 🌱 I’m currently learning modern computer architecture and now I'm trying to write my own [documents](https://github.com/Sevenqi7/nanhu-g-guide) for [Xiangshan](https://github.com/OpenXiangShan/XiangShan).
+- ✨ My interest lies broadly in systems. It's truly interesting and challenging!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenqi7)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenqi7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sevenqi7/Sevenqi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
